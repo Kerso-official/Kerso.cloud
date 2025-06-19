@@ -83,7 +83,7 @@ export default function HomePage() {
         </p> */}
         <div className="flex justify-center items-center mt-20">
           <DecryptedText
-            text="Hi, I'm Kerso, a young, Polish code developer with a high skill ;3"
+            text="Hi, I'm Kerso, a young Polish programmer with a high skills ;3"
             animateOn="view"
             revealDirection="start"
             className="text-4xl text-center mt-20"
