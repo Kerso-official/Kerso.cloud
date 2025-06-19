@@ -5,7 +5,6 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/all';
 import Image from 'next/image';
 import React, { useRef } from 'react';
-import { FaClipboardList } from "react-icons/fa";
 
 gsap.registerPlugin(ScrollTrigger, useGSAP);
 
