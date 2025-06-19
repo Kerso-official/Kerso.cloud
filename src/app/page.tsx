@@ -7,15 +7,6 @@ import DecryptedText from "@/components/DecryptedText";
 import TiltedCard from "@/components/TitledCard";
 import Skills from "@/components/Skills";
 
-// TechItem component
-function TechItem({ icon, label }: { icon: string; label: string }) {
-  return (
-    <div className="flex items-center gap-2">
-      <img src={icon} alt={label} className="w-7 h-7" />
-      <span className="text-lg text-white">{label}</span>
-    </div>
-  );
-}
 
 export default function HomePage() {
   return (
