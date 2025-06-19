@@ -221,7 +221,7 @@ export default function HomePage() {
           </span>
           <div className="flex gap-6">
             <a
-              href="https://github.com/kerso"
+              href="https://github.com/Kerso-official"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white hover:underline transition"
@@ -229,7 +229,7 @@ export default function HomePage() {
               GitHub
             </a>
             <a
-              href="mailto:kerso@example.com"
+              href="mailto:kerso@kerso.cloud"
               className="hover:text-white hover:underline transition"
             >
               Contact
