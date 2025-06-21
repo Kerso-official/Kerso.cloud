@@ -9,5 +9,5 @@ This site is my personal portfolio.
 To create this site i used open-source projects listed down here:
 
 - [ReactBits](https://reactbits.dev/)
-- [Tajmirul's portfolio (only skills section)](me.toinfinite.dev/)
+- [Tajmirul's portfolio (only skills section)](https://me.toinfinite.dev/)
 
