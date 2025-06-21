@@ -63,12 +63,12 @@ export const MY_STACK = {
     ],
 };
 
-// Function to fetch repository data
-export async function getRepoStats(owner: string, repo: string) {
-  const response = await fetch(`https://api.github.com/repos/${owner}/${repo}`);
-  const data = await response.json();
-  return {
-    stars: data.stargazers_count,
-    forks: data.forks_count
-  };
-}
+// // Function to fetch repository data
+// export async function getRepoStats(owner: string, repo: string) {
+//   const response = await fetch(`https://api.github.com/repos/${owner}/${repo}`);
+//   const data = await response.json();
+//   return {
+//     stars: data.stargazers_count,
+//     forks: data.forks_count
+//   };
+// }
