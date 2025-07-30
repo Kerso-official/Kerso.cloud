@@ -6,7 +6,7 @@ export default function Hero() {
       <section
         style={{
           position: "relative",
-          width: "100vw",
+          width: "100%",
           height: "100vh",
           overflow: "hidden",
         }}
@@ -17,7 +17,7 @@ export default function Hero() {
             position: "absolute",
             top: 0,
             left: 0,
-            width: "100vw",
+            width: "100%",
             height: "100vh",
             display: "flex",
             flexDirection: "column",
@@ -30,7 +30,7 @@ export default function Hero() {
         >
           <SplitText
             text="Kerso"
-            className="text-[clamp(3rem,12vw,10rem)] font-bold"
+            className="text-[clamp(3rem,12vw,10rem)] font-bold text-white"
             splitType="chars"
             duration={0.7}
             delay={60}
@@ -41,7 +41,7 @@ export default function Hero() {
           />
           <SplitText
             text="Scroll down"
-            className="text-[clamp(1.5rem,4vw,3rem)] font-medium"
+            className="text-[clamp(1.5rem,4vw,3rem)] font-medium text-white"
             splitType="chars"
             duration={0.7}
             delay={30}

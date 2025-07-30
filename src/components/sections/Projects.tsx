@@ -37,7 +37,7 @@ export default function Projects() {
                 KERSO.CLOUD
               </p>
             }
-            href="https://kerso.cloud"
+            href="https://github.com/Kerso-official/Kerso.cloud"
           />
 
           <TiltedCard
@@ -54,7 +54,7 @@ export default function Projects() {
             displayOverlayContent={true}
             overlayContent={
               <p className="tilted-card-demo-text ml-3 mt-3 bg-gray-800/50 p-2 rounded-2xl">
-                Fakturometr
+                LeafPOS
               </p>
             }
             alertText="This project isn't finished yet!"
@@ -74,10 +74,10 @@ export default function Projects() {
             displayOverlayContent={true}
             overlayContent={
               <p className="tilted-card-demo-text ml-3 mt-3 bg-gray-800/50 p-2 rounded-2xl">
-                Library SP14
+                Placeholder
               </p>
             }
-            alertText="This project isn't finished yet!"
+            alertText="I don't have any more projects to show yet!"
           />
         </div>
       </section>

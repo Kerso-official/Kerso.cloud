@@ -32,13 +32,13 @@ export default function Footer() {
                     href="https://github.com/Kerso-official"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="hover:text-white hover:underline transition"
+                    className="hover:text-white hover:underline transition cursor-none"
                     >
                     GitHub
                     </a>
                     <a
                     href="mailto:kerso@kerso.cloud"
-                    className="hover:text-white hover:underline transition"
+                    className="hover:text-white hover:underline transition cursor-none"
                     >
                     Contact
                     </a>
